@@ -1,0 +1,103 @@
+commit a1570ea8186aba3b432bd8076c546a3823cb5d3f
+Merge: e0c16e2 875312c
+Author: soripeppe <studente.sabatini.lorenzo@gmail.com>
+Date:   Fri May 10 11:39:53 2019 +0200
+
+    Fusione ramo Home
+
+commit 875312ca3a066a144be4460c8df19c21d7e737cf
+Author: soripeppe <studente.sabatini.lorenzo@gmail.com>
+Date:   Fri May 10 11:32:15 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..57d75d5 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color:blue}
+\ No newline at end of file
+
+commit e0c16e28c60df7b07dbe632189517cad846aeb47
+Author: soripeppe <studente.sabatini.lorenzo@gmail.com>
+Date:   Fri May 10 11:30:34 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..f4685b4 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color.red}
+\ No newline at end of file
+
+commit 4f0cda5963ce792ece2e5bdf3edc431db831951d
+Author: soripeppe <studente.sabatini.lorenzo@gmail.com>
+Date:   Fri May 10 11:27:42 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/immagine2.jpg b/img/immagine2.jpg
+new file mode 100644
+index 0000000..99a6595
+Binary files /dev/null and b/img/immagine2.jpg differ
+
+commit f5cc192b6aacd9878a68abc2c9cafe7b4951376b
+Merge: d96827b a27e67f
+Author: soripeppe <studente.sabatini.lorenzo@gmail.com>
+Date:   Fri May 10 11:23:32 2019 +0200
+
+    Fusione ramo contatti
+
+commit a27e67f3f52674745cfcb9cdd36147109f603de3
+Author: soripeppe <studente.sabatini.lorenzo@gmail.com>
+Date:   Fri May 10 11:22:18 2019 +0200
+
+    Inserito file css per il widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit 59271d76e1ec2042e69f86585b8037d0c9384acc
+Author: soripeppe <studente.sabatini.lorenzo@gmail.com>
+Date:   Fri May 10 11:21:03 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 83fd7a2213a8026e94a09b6500160cb30976cf65
+Author: soripeppe <studente.sabatini.lorenzo@gmail.com>
+Date:   Fri May 10 11:17:49 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/immagine.jpg b/img/immagine.jpg
+new file mode 100644
+index 0000000..c31aa3e
+Binary files /dev/null and b/img/immagine.jpg differ
+
+commit d96827b9589a7e7359af5122eab7c609155c53f4
+Author: soripeppe <studente.sabatini.lorenzo@gmail.com>
+Date:   Fri May 10 11:15:20 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 535ae617ec5aafa0e95a7460fc0c6b732d7ae354
+Author: soripeppe <studente.sabatini.lorenzo@gmail.com>
+Date:   Fri May 10 11:11:50 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
